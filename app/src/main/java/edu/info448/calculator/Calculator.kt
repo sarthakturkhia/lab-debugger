@@ -46,7 +46,7 @@ class Calculator {
     }
 
     /**
-     * Multiply operation # Bug 1
+     * Multiply operation # Bug 1 incorrect result earler
      */
     fun mul(operand: Double): Double {
         value *= operand
